@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "AntonioRodrigo",
+    "slug": "antoniorodrigo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.rodrigost7.consumodeagua"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "484792aa-7c7a-47db-9bf7-ecbd2913fbd6"
+      }
+    }
+  }
+}
